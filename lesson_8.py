@@ -18,10 +18,10 @@ make_country('Ukraine', 'Kyiy')
 # Task 3
 def make_operation(arithmetic_operator, *args):
     if len(args) == 0:
-        return 'Error'
+        return None
     for item in args:
         if type(item) != int and type(item) != float:
-            return 'Error'
+            return None
 
     result = args[0]
     for item in args[1:]:
@@ -32,7 +32,7 @@ def make_operation(arithmetic_operator, *args):
         elif arithmetic_operator == '*':
             result *= item
         else:
-            return 'Error'
+            return None
     return result
 
 
