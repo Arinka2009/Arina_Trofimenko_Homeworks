@@ -3,13 +3,13 @@ from sys import path
 def count_lines(file_name):
     file = open(file_name, 'r')
     total_lines = len(file.readlines())
-    print(total_lines)
+    print(f'Total lines: {total_lines}')
 
 
 def count_chars(file_name):
     file = open(file_name, 'r')
     total_chars = len(file.read())
-    print(total_chars)
+    print(f'Total chars: {total_chars}')
 
 
 
