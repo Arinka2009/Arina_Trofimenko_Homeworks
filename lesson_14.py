@@ -23,7 +23,6 @@ add(y=4, x=7)
 
 
 # 2nd Task
-
 def stop_words(words: list):
     def decorator_passing_arguments(function_to_decorate):
         def wrapper_accepting_arguments(name):
@@ -46,7 +45,6 @@ create_slogan('Helga')
 
 
 # 3d Task
-
 def arg_rules(type_: type, max_length: int, contains: list):
     def inner(func):
         def wrapper(name):
