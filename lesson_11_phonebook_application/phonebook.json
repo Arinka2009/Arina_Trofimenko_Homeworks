@@ -1,0 +1,100 @@
+[
+  {
+    "id": 1,
+    "firstName": "Lamb",
+    "lastName": "Mcdaniel",
+    "phone": "8924792926",
+    "address": "Guam"
+  },
+  {
+    "id": 2,
+    "firstName": "Fern",
+    "lastName": "Baird",
+    "phone": "9585043285",
+    "address": "Vermont"
+  },
+  {
+    "id": 3,
+    "firstName": "Veronica",
+    "lastName": "Waters",
+    "phone": "9815483471",
+    "address": "Tennessee"
+  },
+  {
+    "id": 4,
+    "firstName": "Irene",
+    "lastName": "Franks",
+    "phone": "9875202230",
+    "address": "Michigan"
+  },
+  {
+    "id": 5,
+    "firstName": "Eloise",
+    "lastName": "Hickman",
+    "phone": "8645422595",
+    "address": "Idaho"
+  },
+  {
+    "id": 6,
+    "firstName": "Carmela",
+    "lastName": "Mendez",
+    "phone": "8584273344",
+    "address": "Ohio"
+  },
+  {
+    "id": 7,
+    "firstName": "Marina",
+    "lastName": "Trofimenko",
+    "address": "Lviv",
+    "phone": "0978520822"
+  },
+  {
+    "id": 8,
+    "firstName": "Arina",
+    "lastName": "Trofimova",
+    "address": "Dnepr",
+    "phone": "0988520823"
+  },
+  {
+    "id": 9,
+    "firstName": "Ira",
+    "lastName": "",
+    "address": "",
+    "phone": "0976873642"
+  },
+  {
+    "id": 10,
+    "firstName": "Katya",
+    "lastName": "Shevchenko",
+    "address": "",
+    "phone": "09584583271"
+  },
+  {
+    "id": 11,
+    "firstName": "Marina",
+    "lastName": "Shabakina",
+    "address": "Kherson",
+    "phone": "09520822"
+  },
+  {
+    "id": 12,
+    "firstName": "Best",
+    "lastName": "Moss",
+    "address": "Vermont",
+    "phone": "9384743468"
+  },
+  {
+    "id": 13,
+    "firstName": "Arina",
+    "lastName": "trofimenko",
+    "address": "Lviv",
+    "phone": "0978520822"
+  },
+  {
+    "id": 14,
+    "firstName": "Judy",
+    "lastName": "Middleton",
+    "address": " Texas",
+    "phone": "9554982212"
+  }
+]
