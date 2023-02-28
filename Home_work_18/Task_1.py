@@ -16,3 +16,10 @@ class Email:
             raise ValueError(f'{email} is NOT valid')
         print(f'{email} is valid')
         return email
+    
+
+# check the code
+Email('abc-d@mail.com')  # --> valid email
+Email('abc-@mail.com')  # --> Invalid. Rise Error
+Email('abc.def@mail..com')  # --> Invalid. Rise Error
+Email('abc.def@mail.cc')  # --> valid email
