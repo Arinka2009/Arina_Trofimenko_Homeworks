@@ -5,7 +5,7 @@ class Boss:
         self.id = id_
         self.name = name
         self.company = company
-        self.__workers = []
+        self._workers = []
 
     def add_worker(self, worker):
         if isinstance(worker, Worker):
