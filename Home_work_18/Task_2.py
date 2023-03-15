@@ -19,7 +19,7 @@ class Worker:
         self.id = id_
         self.name = name
         self.company = company
-        self.__boss = boss
+        self._boss = boss
 
     @property
     def boss(self):
